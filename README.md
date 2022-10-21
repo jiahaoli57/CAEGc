@@ -34,12 +34,12 @@ We welcome contributions from the community, including but not limited to:
 ## Citations
 Please cite our work if you find our code/paper is useful to your work.
 ```bibtex
-@article{zhang2022aggregating,
-  title={Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
-  author={Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
-  journal={Journal of the Operational Research Society},
-  pages={1--14},
-  year={2022},
-  publisher={Taylor \& Francis}
+@misc{zhang2022aggregating,
+    title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
+    author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
+    journal   = {Journal of the Operational Research Society},
+    pages     = {1--14},
+    year      = {2022},
+    publisher = {Taylor \& Francis}
 }
 ```
