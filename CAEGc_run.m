@@ -1,4 +1,4 @@
-function [daily_return, total_return] = CAEGc_run(data)
+% function [daily_return, total_return] = CAEGc_run(data)
 %{
 This file is the run core for the Aggregating exponential gradient expert 
 advice for online portfolio selection under transaction costs (CAEGc).
