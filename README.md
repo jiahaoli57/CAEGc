@@ -42,8 +42,6 @@ Please cite our work if you find our code/paper is useful to your work.
     year      = {2022},
     publisher = {Taylor \& Francis}
 }
-```
-```bibtex
 @article{zhang2022aggregating,
     title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
     author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
