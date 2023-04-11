@@ -1,8 +1,6 @@
 # CAEGc
 [Aggregating exponential gradient expert advice for online portfolio selection under transaction costs](https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2122737?src=)
 
-If there are enough people who need the code, we will consider making it public.
-
 ## About
 As an application of machine learning techniques in the field of portfolio management, online portfolio selection (OLPS) aims at optimising the allocation of wealth in an uncertain environment. When making investment decisions, the transaction cost is such an important factor that investor should not ignore. Thus, this paper extends an existing online portfolio selection strategy Continuous Aggregating Exponential Gradient (CAEG) (Yang et al., 2022) in the presence of transaction costs. The proportional transaction costs model is constructed when the transaction costs are incorporated into the decision-making process, and we call this new strategy CAEGc. Theoretical guarantee proves that the mean of the logarithmic cumulative wealth of CAEGc has an asymptotic upper bound with that of its benchmark. The numerical examples demonstrate the impact of transaction costs on the proposed CAEGc strategy on the one hand, and on the other hand, verify that CAEGc outperforms other related OLPS strategies and is comparable to its benchmark strategy.
 
@@ -35,6 +33,16 @@ We welcome contributions from the community, including but not limited to:
 
 ## Citations
 Please cite our work if you find our code/paper is useful to your work.
+```bibtex
+@article{zhang2022aggregating,
+    title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
+    author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
+    journal   = {Journal of the Operational Research Society},
+    pages     = {1--14},
+    year      = {2022},
+    publisher = {Taylor \& Francis}
+}
+```
 ```bibtex
 @article{zhang2022aggregating,
     title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
