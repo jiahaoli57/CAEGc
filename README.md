@@ -42,11 +42,15 @@ Please cite our work if you find our code/paper is useful to your work.
     year      = {2022},
     publisher = {Taylor \& Francis}
 }
-@article{zhang2022aggregating,
-    title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
-    author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
+```
+```bibtex
+@article{yang2022aggregating,
+    title     = {Aggregating exponential gradient expert advice for online portfolio selection},
+    author    = {Yang, Xingyu and He, Jin'an and Zhang, Yong},
     journal   = {Journal of the Operational Research Society},
-    pages     = {1--14},
+    volume    = {73},
+    number    = {3},
+    pages     = {587--597},
     year      = {2022},
     publisher = {Taylor \& Francis}
 }
