@@ -37,7 +37,8 @@ Please cite our work if you find our code/paper is useful to your work.
     journal   = {Journal of the Operational Research Society},
     pages     = {1--14},
     year      = {2022},
-    publisher = {Taylor \& Francis}
+    publisher = {Taylor \& Francis},
+    doi       = {10.1080/01605682.2022.2122737}
 }
 ```
 ```bibtex
