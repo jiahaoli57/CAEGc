@@ -31,7 +31,7 @@ We welcome contributions from the community, including but not limited to:
 * A more detailed discussion of transaction costs
 
 ## Citations
-Please cite our work if you find our code/paper is useful to your work.
+Please consider citing our work if you find our code/paper is useful to your work.
 ```bibtex
 @article{zhang2022aggregating,
     title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
