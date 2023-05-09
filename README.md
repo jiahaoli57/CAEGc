@@ -1,6 +1,8 @@
 # CAEGc
 Yong Zhang, Jiahao Li, Xingyu Yang, and Hong Lin. "Aggregating exponential gradient expert advice for online portfolio selection under transaction costs" Journal of the Operational Research Society, 2022.
 
+![image](doc/CAEGc.jpg)
+
 ## About
 As an application of machine learning techniques in the field of portfolio management, online portfolio selection (OLPS) aims at optimising the allocation of wealth in an uncertain environment. When making investment decisions, the transaction cost is such an important factor that investor should not ignore. Thus, this paper extends an existing online portfolio selection strategy Continuous Aggregating Exponential Gradient (CAEG) (Yang et al., 2022) in the presence of transaction costs. The proportional transaction costs model is constructed when the transaction costs are incorporated into the decision-making process, and we call this new strategy CAEGc. Theoretical guarantee proves that the mean of the logarithmic cumulative wealth of CAEGc has an asymptotic upper bound with that of its benchmark. The numerical examples demonstrate the impact of transaction costs on the proposed CAEGc strategy on the one hand, and on the other hand, verify that CAEGc outperforms other related OLPS strategies and is comparable to its benchmark strategy.
 
