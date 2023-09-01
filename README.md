@@ -1,5 +1,5 @@
 # CAEGc
-Yong Zhang, Jiahao Li, Xingyu Yang, and Hong Lin. "Aggregating exponential gradient expert advice for online portfolio selection under transaction costs" Journal of the Operational Research Society, 2022.
+Yong Zhang, Jiahao Li, Xingyu Yang, and Hong Lin. "Aggregating exponential gradient expert advice for online portfolio selection under transaction costs" Journal of the Operational Research Society, 2023, 74(8): 1940-1953.
 
 ![image](doc/CAEGc.jpg)
 
@@ -33,14 +33,15 @@ We welcome contributions from the community, including but not limited to:
 ## Citations
 Please consider citing our work if you find our code/paper is useful to your work.
 ```bibtex
-@article{zhang2022aggregating,
-    title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
-    author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
-    journal   = {Journal of the Operational Research Society},
-    pages     = {1--14},
-    year      = {2022},
-    publisher = {Taylor \& Francis},
-    doi       = {10.1080/01605682.2022.2122737}
+@article{zhang2023aggregating,
+	title     = {Aggregating exponential gradient expert advice for online portfolio selection under transaction costs},
+	author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Lin, Hong},
+	journal   = {Journal of the Operational Research Society},
+	volume    = {74},
+	number    = {8},
+	pages     = {1940-1953},
+	year      = {2023},
+	publisher = {Taylor \& Francis}
 }
 ```
 ```bibtex
