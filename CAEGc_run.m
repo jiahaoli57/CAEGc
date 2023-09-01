@@ -8,7 +8,8 @@ reference:
 
 [1] Yong Zhang, Jiahao Li, Xingyu Yang, and Hong Lin. "Aggregating 
 exponential gradient expert advice for online portfolio selection under 
-transaction costs" Journal of the Operational Research Society, 2022.
+transaction costs" Journal of the Operational Research Society, 2023, 
+74(8): 1940-1953.
 [2] Xingyu Yang, Jin'an He, and Yong Zhang. "Aggregating exponential 
 gradient expert advice for online portfolio selection" Journal of the 
 Operational Research Society, 2022, 73(3): 587-597.
