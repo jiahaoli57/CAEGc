@@ -31,15 +31,15 @@ total_return              -total wealths
 
 %% Parameter Setting
 tc = 0; % transaction cost rate
+eta_min = 0.01;
+step = 0.01;
+eta_max = 0.2;
 
 %% Variables Inital
 [T,N] = size(data);
 b = zeros(T,N);
 daily_return = zeros(T,1);
 total_return = zeros(T,1);
-eta_min = 0.01;
-step = 0.01;
-eta_max = 0.2;
 
 s = cell(1,N);
 for ns = 1:N
