@@ -39,7 +39,7 @@ Please consider citing our work if you find our code/paper is useful to your wor
 	journal   = {Journal of the Operational Research Society},
 	volume    = {74},
 	number    = {8},
-	pages     = {1940-1953},
+	pages     = {1940--1953},
 	year      = {2023},
 	publisher = {Taylor \& Francis}
 }
